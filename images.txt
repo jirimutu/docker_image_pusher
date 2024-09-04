@@ -2,3 +2,4 @@ nginx
 mysql:5.7
 registry
 bitnami/redis
+busybox:1.30
